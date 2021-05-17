@@ -1,0 +1,10 @@
+logs
+*.log
+*.DS_Store
+
+.vscode
+/cache/**
+
+/build
+/dist
+node_modules
